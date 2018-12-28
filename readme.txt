@@ -6,3 +6,4 @@ Git has a mutable index called stage.
 git has some changes
 
 git branch dev
+git merge master in dev
