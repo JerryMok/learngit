@@ -8,4 +8,4 @@ git has some changes
 git branch dev
 git merge master in dev
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
