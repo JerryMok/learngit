@@ -3,7 +3,7 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 
 
-git has some changes
+it has some changes
 
 git branch dev
 git merge master in dev
@@ -11,3 +11,5 @@ git merge master in dev
 Creating a new branch is quick and simple.
 
 123
+dasdwas
+
