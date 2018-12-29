@@ -9,4 +9,6 @@ git branch dev
 
 git merge master in dev
 
-issue fixed`
+issue fixed
+
+fix a bug in master switch branch from dev
