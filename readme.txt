@@ -10,4 +10,4 @@ git merge master in dev
 
 Creating a new branch is quick and simple.
 
-123
+continue to edit on dev after bug fixed:  123 
